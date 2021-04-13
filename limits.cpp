@@ -15,5 +15,5 @@ int main()
 	cout << "long is " << sizeof n_long << " bytes." << endl;
 	cout << "long long is " << sizeof n_llong << " bytes." << endl;
 	cout << endl;
-
+}
 	 
